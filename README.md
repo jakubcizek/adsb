@@ -9,7 +9,7 @@ Priklad:
  - **hex:** [ICAO 24bit ID](https://www.icao.int/NACC/Documents/eDOCS/Fasid/GRP15Agenda3APXs%20AIC%20para%2024%20bits%20address.pdf%29)
  - **seen:** pocet detekci od jara 2020
  - **callsigns:** pole s volacimi znaky behem pruletu
- - **category:** [kategorie letounu](%28https://discussions.flightaware.com/t/customizing-aircraft-icons-in-piaware3/18875/2)
+ - **category:** [kategorie letounu](https://discussions.flightaware.com/t/customizing-aircraft-icons-in-piaware3/18875/2)
  - **firstseen:** unix timestamp prvni detekce
  - **lastseen:** unix timestamp posledni detekce
  - **aircraft:** model letadla
