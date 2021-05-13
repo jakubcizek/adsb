@@ -13,5 +13,5 @@ Priklad:
  - **firstseen:** unix timestamp prvni detekce
  - **lastseen:** unix timestamp posledni detekce
  - **aircraft:** model letadla
- - **regstration:** registrace/rejstrikova znacka ([ceske OK-XXXX](https://www.caa.cz/letadlova-technika/letecky-rejstrik/))
+ - **registration:** registrace/rejstrikova znacka ([ceske OK-XXXX](https://www.caa.cz/letadlova-technika/letecky-rejstrik/))
  - **airforce:** vojensky/vladni letoun? (analyza volacich znaku a modelu, zatim nekompletni)
